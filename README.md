@@ -1,9 +1,18 @@
-<h2 align="center">Hi 👋 I'm Chinmay, a student exploring Cybersecurity
-</h2>
+<div>
+  <img width="600" height="110" alt="ChatGPT Image Jun 2, 2026, 05_55_38 AM" src="https://github.com/user-attachments/assets/8d811585-861f-438c-abb2-f750cc3ca0b8" />
+</div>
 
-###
+<br>
 
-<div align="center">
+- BCA Student @ Manipal University Jaipur (CGPA: **9.58**)
+- Interested in **Cybersecurity and Security Operations**
+- Currently exploring **Linux, Splunk and Wazuh**
+- Occasionally build websites and web applications
+
+<br>
+
+## ⚙️ I Work With
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -26,31 +35,44 @@
   <img width="12" />
 </div>
 
-###
-<div align="center">
-  <p>
-    I'm currently learning and exploring different areas of tech, especially cybersecurity.  
-    I like understanding how systems work, breaking things (sometimes 😄), and figuring them out.  
-    Still learning, still building.
-  </p>
-</div>
+<br>
 
-###
+- `Cybersecurity` `SIEM` `Network Security` `Computer Networking`
+- `Linux` `Splunk` `Git`
+- `Python` `Java` `C` `JavaScript` `HTML` `CSS`
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Chinmay-rai&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+<br>
 
-###
+## 🎖️ Certs
+### Cisco Networking Academy
 
-<div align="center">
-  <a href="https://mail.google.com/mail/?view=cm&to=chinmayrai2006@gmail.com" target="_blank">
+- `Introduction to Cybersecurity`
+- `Cybersecurity Essentials`
+- `Networking Basics`
+- `Linux Unhatched`
+
+### Google Cybersecurity
+
+- `Foundations of Cybersecurity`
+- `Manage Security Risks`
+- `Networks and Network Security`
+- `Tools of the Trade: Linux and SQL`
+
+### Splunk
+
+- `Intro to Splunk`
+
+### NPTEL
+
+- `Programming in Java (Elite)`
+- `Python for Data Science (Elite)`
+
+<br>
+
+## 📫 Connect With Me
+- <a href="https://mail.google.com/mail/?view=cm&to=chinmayrai2006@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
- &emsp;
+- </a>
   <a href="https://www.linkedin.com/in/chinmay-rai-a08236338/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
-
-###

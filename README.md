@@ -4,7 +4,7 @@
 
 <br>
 
-- BCA Student @ Manipal University Jaipur (CGPA: 9.58)
+- BCA Student @ Manipal University Jaipur
 - Cybersecurity enthusiast with an interest in Security Operations
 - Working with Linux, Splunk, Wazuh and related technologies
 - Occasionally build websites and web applications
